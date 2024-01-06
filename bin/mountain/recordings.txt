@@ -1,0 +1,8 @@
+3,Abdullah,7/7/23,2:25,tres mote,third detail,Extension ladder,Yes
+3,Abdullah,7/7/23,2:25,tres mote,third detail,Extension ladder,Yes
+2,Dunstan,2023,16:00,ashiwaju1,collision between bikers,amakipkip,Yes
+1,Dunstan,2/2/2023,14:00,3 words,small detail,amakipkip,Yes
+3,Abdullah,7/7/23,2:25,tres mote,third detail,amakipkip,Yes
+3,Abdullah,7/7/23,2:25,tres mote,third detail,Tow truck,Yes
+3,Abdullah,7/7/23,2:25,tres mote,third detail,Fire hose,Yes
+4,Actual Name,7/30/2023,9:56 PM,CG3.3,Collision of vehicles on mountain road,New Resource,Yes

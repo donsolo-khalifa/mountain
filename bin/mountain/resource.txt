@@ -1,0 +1,4 @@
+2, lad2.2, 1, Extension ladder
+3, tow1, 1, Tow truck
+4, ab4, 1, Fire hose
+5, new5, 2, New Resource
